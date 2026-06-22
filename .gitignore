@@ -1,0 +1,14 @@
+# Environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Output images (optional, but good if you want a clean repo)
+*.png
+*.jpg
+
+# Editor folders
+.vscode/
